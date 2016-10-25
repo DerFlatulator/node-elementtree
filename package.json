@@ -2,16 +2,17 @@
   "author": "Rackspace US, Inc.",
   "contributors": [
     "Paul Querna <paul.querna@rackspace.com>",
-    "Tomaz Muraus <tomaz.muraus@rackspace.com>"
+    "Tomaz Muraus <tomaz.muraus@rackspace.com>",
+    "Lucas Azzola <lucas.azzola@iress.com.au>"
   ],
-  "name": "elementtree",
+  "name": "@derflatulator/elementtree",
   "description": "XML Serialization and Parsing module based on Python's ElementTree.",
   "version": "0.1.6",
   "keywords": [ "xml", "sax", "parser", "seralization", "elementtree" ],
-  "homepage": "https://github.com/racker/node-elementtree",
+  "homepage": "https://github.com/DerFlatulator/node-elementtree",
   "repository": {
     "type": "git",
-    "url": "git://github.com/racker/node-elementtree.git"
+    "url": "git://github.com/DerFlatulator/node-elementtree.git"
   },
   "main": "lib/elementtree.js",
   "directories": {
