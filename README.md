@@ -6,7 +6,7 @@ node-elementtree is a [Node.js](http://nodejs.org) XML parser and serializer bas
 Installation
 ====================
 
-    $ npm install elementtree
+    $ npm install @azz/elementtree
     
 Using the library
 ====================

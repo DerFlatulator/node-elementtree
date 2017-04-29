@@ -5,14 +5,14 @@
     "Tomaz Muraus <tomaz.muraus@rackspace.com>",
     "Lucas Azzola <lucas.azzola@iress.com.au>"
   ],
-  "name": "@derflatulator/elementtree",
+  "name": "@azz/elementtree",
   "description": "XML Serialization and Parsing module based on Python's ElementTree.",
   "version": "0.1.6",
   "keywords": [ "xml", "sax", "parser", "seralization", "elementtree" ],
-  "homepage": "https://github.com/DerFlatulator/node-elementtree",
+  "homepage": "https://github.com/azz/node-elementtree",
   "repository": {
     "type": "git",
-    "url": "git://github.com/DerFlatulator/node-elementtree.git"
+    "url": "git://github.com/azz/node-elementtree.git"
   },
   "main": "lib/elementtree.js",
   "directories": {
